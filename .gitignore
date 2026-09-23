@@ -1,0 +1,9 @@
+# Datos satelitales descargados
+*.nc
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
